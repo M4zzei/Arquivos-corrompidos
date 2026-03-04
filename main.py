@@ -1,7 +1,7 @@
 import os
 import zipfile
 import rarfile
-
+sssas
 #--- configuacoes ---
 rarfile.UNRAR_TOOL = r"C:\Program Files\WinRAR\UnRAR.exe"
 PASTA_ALVO = r"C:/Dev/Teste"
@@ -132,4 +132,5 @@ else:
 
 print("\n" + "="*60)
 print("FIM DA EXECUÇÃO")
+
 print("="*60)
